@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\pongopengl\pongopengl\Debug\pongopengl.exe
+C:\Users\Administrator\Desktop\pongopengl\pongopengl\Debug\pongopengl.pdb

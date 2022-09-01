@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Administrator\Desktop\pongopengl\pongopengl\main.cpp(18,33): warning C4305: 'başlatılıyor': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Administrator\Desktop\pongopengl\pongopengl\main.cpp(19,33): warning C4305: 'başlatılıyor': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Administrator\Desktop\pongopengl\pongopengl\main.cpp(86,23): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+  pongopengl.vcxproj -> C:\Users\Administrator\Desktop\pongopengl\pongopengl\Debug\pongopengl.exe
